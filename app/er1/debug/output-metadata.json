@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.vaca.buildflavor.er1",
+  "variantName": "er1Debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0-er1",
+      "outputFile": "Lepu-debug-er1-1.0-er1.apk"
+    }
+  ],
+  "elementType": "File"
+}
